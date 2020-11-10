@@ -17,3 +17,7 @@ Instalar banco de dados mongodb
 Instalar mongoose- ele traduz os dados para objetos js para serem utilizados na app
 
 > npm install --save mongoose
+
+Permitir acesso a API
+
+> npm install --save cors
